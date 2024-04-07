@@ -1,4 +1,5 @@
-![logo-no-background](https://github.com/Unreal-Kingdoms/Pak-Beam/assets/34868944/5e539934-0586-4f26-a7ec-8382022a0647)
+![pak-beam-high-resolution-logo-transparent](https://github.com/Unreal-Kingdoms/Pak-Beam/assets/34868944/6cdea82a-5e88-4a02-bca1-1e9de0d51ece)
+
 
 # PakBeam - UE5 Pak File Javascript-based CDN and Asset Loading System
 
