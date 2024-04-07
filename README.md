@@ -20,7 +20,7 @@ PakBeam is an open-source JavaScript-based Content Delivery Network (CDN) and as
 
 To start using PakBeam in your UE5 project, follow these simple steps:
 
-1\. **Download PakBeam**: Clone the PakBeam repository from [GitHub](https://github.com/your-username/PakBeam) or download the latest release.
+1\. **Download PakBeam**: Clone the PakBeam repository from [GitHub](https://github.com/Unreal-Kingdoms/Pak-Beam) or download the latest release.
 
 2\. **Integration**: Integrate PakBeam into your UE5 project by including the necessary JavaScript files and configuring the CDN settings.
 
@@ -39,7 +39,7 @@ PakBeam is licensed under the MIT License. See the [LICENSE](LICENSE) file for d
 
 ## Support
 
-For questions, issues, or feedback related to PakBeam, please [open an issue](https://github.com/your-username/PakBeam/issues) on GitHub. Our team will be happy to assist you.
+For questions, issues, or feedback related to PakBeam, please [open an issue](https://github.com/Unreal-Kingdoms/Pak-Beam/issues) on GitHub. Our team will be happy to assist you.
 
 ---
 
